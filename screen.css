@@ -14,7 +14,7 @@ a {
 }
 a:hover {
 	color:#fff;
-	background:#369;
+	/* background:#369; */
 	text-decoration:none;
 }
 h1, h2, h3 {
@@ -115,6 +115,7 @@ img {
 	margin:0;
 	padding:6px 15px !important;
 	text-align:right;
+	height: 4vh;
 }
 /* column container */
 .colmask {
